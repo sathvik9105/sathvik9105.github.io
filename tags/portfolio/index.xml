@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on Sathvik</title>
+    <link>http://sathvik9105.github.io/tags/portfolio/</link>
+    <description>Recent content in Portfolio on Sathvik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Feb 2024 01:21:59 +0530</lastBuildDate><atom:link href="http://sathvik9105.github.io/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Developing and Deploying a Portfolio.</title>
+      <link>http://sathvik9105.github.io/blogs/markdown-syntax/</link>
+      <pubDate>Sat, 03 Feb 2024 01:21:59 +0530</pubDate>
+      
+      <guid>http://sathvik9105.github.io/blogs/markdown-syntax/</guid>
+      <description>Task 2: Building My Portfolio Website using hugo themes and deploying through GitHub pages. In this task, I was asked to create my own portfolio website using a hugo theme and deploy it using github pages. Hugo is a powerful open-source static website generator. This task is really special to me as I&amp;rsquo;ve created a webpage for the first time ever in my life. I&amp;rsquo;ve briefed the steps I&amp;rsquo;ve followed in this process of creating and hosting the portfolio website.</description>
+    </item>
+    
+  </channel>
+</rss>
