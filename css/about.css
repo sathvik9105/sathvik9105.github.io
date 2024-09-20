@@ -242,6 +242,7 @@
     color: var(--primary-color);
     cursor: pointer;
     border-radius: 10px;
+    
 }
 
 #single #topScroll:hover {

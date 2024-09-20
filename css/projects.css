@@ -1,7 +1,8 @@
 /* projects */
 
 #projects h3 {
-    color: var(--text-secondary-color) !important;
+    color: snow !important;
+    font-family: Alata;
 }
 
 #projects a {

@@ -1,0 +1,99 @@
+#accolades {
+    padding: 2rem 0;
+}
+#accolades h3 {
+    color: snow !important;
+    font-family: Alata;
+}
+.cert-card {
+    background-color: #343a40;
+    padding: 1.5rem;
+    margin: 1rem;
+    border-radius: 8px;
+    text-align: left;
+    color: #cbd5e1;
+    font-family: 'Mulish', sans-serif;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+    max-width: 100%;
+}
+
+.cert-card:hover {
+    transform: translateY(-10px);
+    background-color: #6c757d;
+}
+
+/* Title of the certification */
+.cert-card h4 {
+    font-size: 1.5rem;
+    margin-bottom: 0.75rem;
+    color: #fff;
+}
+
+/* Company and Date Meta Info */
+.cert-meta {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+}
+
+.company {
+    font-size: 1rem;
+    /* color: #17a2b8; */
+    color: coral;
+    text-decoration: none;
+}
+
+.company:hover {
+    text-decoration: underline;
+}
+
+.date {
+    font-size: 1rem;
+    color: #adb5bd;
+    opacity: 0.5;
+}
+
+.date i {
+    margin-right: 5px;
+}
+
+/* Certification/Award description */
+.cert-description {
+    font-size: 1rem;
+    line-height: 1.6;
+    margin-bottom: 1.5rem;
+    color: #e4e6eb;
+    opacity: 0.8;
+    font-style: italic;
+    font-family: alata;
+}
+
+/* View Certificate button */
+.view-cert-btn {
+    display: inline-block;
+    padding: 0.2rem 1rem;
+    border: 1px solid coral !important;
+    border-radius: 4px;
+    color: #fff !important;
+    font-size: small !important;
+    font-family: alata !important;
+    font-weight: 0;
+    background-color: transparent;
+    transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+    text-decoration: none;
+}
+
+.view-cert-btn:hover {
+    border: none !important;
+    background-color: #fff;
+    color: lightcoral !important;
+    cursor: pointer;
+}
+
+/* Responsive columns for larger screens */
+@media (min-width: 768px) {
+    .cert-card {
+        max-width: 90%;
+    }
+}
